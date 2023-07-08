@@ -35,6 +35,7 @@ The contract allows the contract owner to mint tokens to a provided address, whi
 10.Remember to connect to the correct network in Remix and ensure that you have the required tokens in your account to perform token transfers or burns.
 
 ## Video Walkthrough
+https://www.loom.com/share/e3c592528e304177853b0caa785af928?sid=5f274c02-8399-452b-8162-7b6612e49569
 
 ## License
 
